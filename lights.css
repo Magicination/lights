@@ -1,0 +1,50 @@
+.all{
+    display: inline-block;
+    padding: 20px;
+}
+.pedestrianTrafficLights{
+    background-color: black;
+    width: 200px;
+    height: 350px;
+    display:inline-block; 
+}
+.circle{
+    border-radius: 50%;
+}
+
+.border{
+    padding:25px
+}
+
+.trafficLights{
+    margin-left: 26vw;
+    width: 200;
+    height: 500px;
+    background-color: black;
+    display:inline-block;
+   }
+#red{
+    background-color: #6e0000;
+    width:150px;
+    height:150px;
+}
+#yellow{
+    background-color:#b3b300;
+    width:150px;
+    height:150px;
+}
+#green{
+    background-color: #0dff00;
+    width:150px;
+    height:150px;
+}
+#walk{
+    background-image:"";
+    width:150px;
+    height:150px;
+}
+#stop{
+    background-image: url(stop.jpg);
+    width:150px;
+    height:150px;
+}
